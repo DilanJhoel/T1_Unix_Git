@@ -1,6 +1,6 @@
 # Universidad Regional Amazónica "Ikiam"
 ## Datos
-Nombre: Dilan Jhoel Porras Quinaucho
+Nombre: Dilan Jhoel Porras Quinaucho<br>
 Correo: dilan.porras@est.ikiam.edu.ec
 ## Ejercicio 1.10.3 Plant-Pollinator Networks
 ### Explicación del ejercicio
