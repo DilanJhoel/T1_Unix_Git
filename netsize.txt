@@ -1,0 +1,6 @@
+$ bash netsize.sh
+Nombre del archivo:Saavedra2013/n30.txt
+Número de filas:
+8
+Número de columnas:
+19
