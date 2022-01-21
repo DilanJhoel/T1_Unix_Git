@@ -6,7 +6,7 @@ Correo: dilan.porras@est.ikiam.edu.ec
 ## Ejercicio 1.10.3 Plant-Pollinator Networks
 ### Explicación del ejercicio
 Se utilizaron datos de Saavedra y Stouffer (2013) que estudiaron varias redes planta-polinizador. 
-Estos datos se representan como matrices rectangulares donde las __filas__ son los __polinizadores__, las __columnas__ las __plantas__, un __0__ indica la __ausencia__ y un __1__ la __presencia__ de una __interacción entre la planta y el polinizador__.
+Estos datos se representan como matrices rectangulares donde las __filas__ son los __polinizadores__ y las __columnas__ son las __plantas__. Un __0__ indica la __ausencia__ y un __1__ la __presencia__ de una __interacción entre la planta y el polinizador__.
 Por ejemplo: __n18.txt__
 
 ![image](https://user-images.githubusercontent.com/97655109/150469392-649da477-91a7-407c-a58c-4f14bce3c10b.png)
